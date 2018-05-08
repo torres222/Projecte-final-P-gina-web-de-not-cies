@@ -1,1 +1,1 @@
-# Projecte-final-P-gina-web-de-not-cies
+# Projecte-final-Pagina-web-de-noticies
