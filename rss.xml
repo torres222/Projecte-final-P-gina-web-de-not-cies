@@ -1,0 +1,13 @@
+<xml version="1.0" encoding="UTF-8">
+<rss version="2.0">
+	<channel>
+		<title>Noticias Eventos Deportivos</title>
+		<description>Actividades deportivas, excursiones, piragua, cicilismo, senderismo</description>
+		<language>es</language>
+		<item>
+			<title>Vuelta en piragua a la Dragonera</title>
+			<description>Un año más vuelve la tradicional Vuelta a La Dragonera en piragua y que este año cumple ya su XXIV edición. En torno a 500 palistas harán el trayecto entre Sant Elm y el islote andritxol el próximo domingo 17 de junio</description>
+			<link>https://rawgit.com/torres222/Projecte-final-Pagina-web-de-noticies/master/news.html</link>
+		</item>	
+	</channel>
+</rss>
