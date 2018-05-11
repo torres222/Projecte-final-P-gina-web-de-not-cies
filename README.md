@@ -9,3 +9,5 @@ Archivo rss.xml.
 Las plantillas de ver una sola noticia, news1.html y news2.html, contienen imagen y 2 videos de Youtube responsive.
 Cada página contiene etiquetas OpenGraph.
 
+https://rawgit.com/torres222/Projecte-final-Pagina-web-de-noticies/master/news.html#
+
