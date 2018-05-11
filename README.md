@@ -8,7 +8,7 @@ Codificadas news1.html y news2.html que corresponden a las primeras noticias de 
 Archivo rss.xml.
 Las plantillas de ver una sola noticia, news1.html y news2.html, contienen imagen y 2 videos de Youtube responsive.
 Cada página contiene etiquetas OpenGraph.
-Validados los archivos.
+Validados los archivos. Imagenes comprimidas.
 
 https://rawgit.com/torres222/Projecte-final-Pagina-web-de-noticies/master/news.html
 
